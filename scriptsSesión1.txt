@@ -6,7 +6,7 @@ Sesión 1
 
 #Descarga primero el programa en el sitio web https://git-scm.com
 
-#Con git instalado se va a buscar la aplicación CMD y para descargar repositorios de git se escriben los siguientes comandos (el primero será para navegar hasta la carpeta donde guardar el repositorio y el segundo para descargarlo desde github):
+#Con git instalado se va a buscar la aplicación CMD. Para descargar repositorios de git se escriben los siguientes comandos (el primero será para navegar hasta la carpeta donde guardar el repositorio y el segundo para descargarlo desde github):
 
 cd/Desktop
 git clone https://github.com/sergi-ub/SesionWebScraping
@@ -14,8 +14,7 @@ git clone https://github.com/sergi-ub/SesionWebScraping
 
 #CREAR UN ENTORNO VIRTUAL AISLADO
 
-#Ir a la aplicación CMD y una vez abierta navegar hacia la carpeta donde 
-crear el entorno:
+#Ir a la aplicación CMD y una vez abierta navegar hacia la carpeta donde crear el entorno:
 
 cd/Desktop
 
